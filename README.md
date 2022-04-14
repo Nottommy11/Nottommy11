@@ -3,8 +3,6 @@
 [![LinkedIn](./Img/linkedin-light.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-light-mode-only)
 [![LinkedIn](./Img/linkedin-dark.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-dark-mode-only)
 
-[You can visit my LinkedIn here!](https://www.linkedin.com/in/thomas-marxsen)
-
 ---
 
 ### *I love to learn and I'm a problem solver at heart*
