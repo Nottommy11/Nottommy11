@@ -11,11 +11,11 @@
 
 #### General Information About Me
 
-- Accounting and Computer Science Major at Wayne State College
-- Love listening to music
-- Enjoy watching the NFL and NBA
+- Accounting 🧾 and Computer Science 💻 Major at Wayne State College
+- Love listening to music 🎧
+- Enjoy watching the NFL 🏈 and NBA 🏀
   - Specifically the Packers and Warriors
-- Have a deep interest in warplanes and flight sims
+- Have a deep interest in warplanes and flight sims ✈
 - Always open to trying something new and getting out of my comfort zone
 
 ---
