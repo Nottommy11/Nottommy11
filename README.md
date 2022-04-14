@@ -8,14 +8,35 @@
 
 ---
 
-#### Some General Information About Me
+#### General Information About Me
 
 - Accounting and Computer Science Major at Wayne State College
 - Love listening to music
 - Enjoy watching the NFL and NBA
   - Specifically the Packers and Warriors
-- Have a deep interest in war planes and flight sims
+- Have a deep interest in warplanes and flight sims
 - Always open to trying something new and getting out of my comfort zone
+
+---
+
+#### Major Goals for 2022
+
+- [ ] Contribute to Open-source Projects
+- [ ] Create Projects That Have Real World Applications
+- [ ] Develop a 2D Game in Unity with WSCs ACM Club
+- [ ] Work on a 3D Game in Unity
+
+---
+
+#### Minor Goals for 2022
+
+- [ ] Incorporate a Web-scraper with A Project
+- [ ] Complete the Harvard CS-50P Course
+- [ ] Advance my Knowledge of Data Structures and Algorithms
+- [ ] Get Exposure to ML & AI
+- [ ] Get Exposure to AWS, Google Cloud, and APIs in General
+
+
 
 <!--
 **Nottommy11/Nottommy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
