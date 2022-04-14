@@ -39,12 +39,11 @@
 - [ ] Get Exposure to ML & AI
 - [ ] Get Exposure to AWS, Google Cloud, and APIs in General
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=0ac0ac&icon_color=93a4ab&bg_color=09131B&text_color=93a4ab&border_color=0ac0ac" />
 
-</details>
+
 
 
 
