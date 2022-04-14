@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=c8cdcf&bg_color=09131B&text_color=c8cdcf&border_color=07e3cb" />
+<img align="left" alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&bg_color=09131B&text_color=c8cdcf&border_color=07e3cb" />
 
 
 
