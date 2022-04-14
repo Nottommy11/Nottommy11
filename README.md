@@ -14,6 +14,8 @@
 - Love listening to music
 - Enjoy watching the NFL and NBA
   - Specifically the Packers and Warriors
+- Have a deep interest in war planes and flight sims
+- Always open to trying something new and getting out of my comfort zone
 
 <!--
 **Nottommy11/Nottommy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
