@@ -1,5 +1,8 @@
 # Hello there, I'm Thomas
 
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-dark-mode-only)
+
 [You can visit my LinkedIn here!](https://www.linkedin.com/in/thomas-marxsen)
 
 ---
