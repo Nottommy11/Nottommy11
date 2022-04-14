@@ -41,12 +41,19 @@
 
 ---
 
-<img align="left" alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&bg_color=09131B&text_color=c8cdcf&border_color=07e3cb" />
+<img align="left" alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&bg_color=09131B&text_color=c8cdcf&border_color=07e3cb&count_private=true" />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&layout=compact)](https://github.com/Nottommy11/github-readme-stats)
+<!--
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&langs_count=10&theme=tokyonight&layout=compact&count_private=true" alt="AnhellO :: Top Langs" /></p>
+
+-->
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=8)](https://github.com/Nottommy11/github-readme-stats)
+-->
 
 <!--
 **Nottommy11/Nottommy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
