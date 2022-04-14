@@ -25,6 +25,8 @@
 - [ ] Create Projects That Have Real World Applications
 - [ ] Develop a 2D Game in Unity with WSCs ACM Club
 - [ ] Work on a 3D Game in Unity
+- [X] Obtain an Internship for the Summer of 2022
+- [ ] Obtain an Internship for the Summer of 2023
 
 ---
 
