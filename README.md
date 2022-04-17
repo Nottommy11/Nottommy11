@@ -37,7 +37,7 @@
 
 
 <picture>
-  <source srcset="[dark-mode.png](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png)" media="(prefers-color-scheme: dark)">
+  <source srcset="[light-mode.png](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png)" media="(prefers-color-scheme: dark)">
 
   <!--
   <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
@@ -45,7 +45,7 @@
 </picture>
 
 <picture>
-  <source srcset="[light-mode.png](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)" media="(prefers-color-scheme: light)">
+  <source srcset="[dark-mode.png](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)" media="(prefers-color-scheme: light)">
 
 <!--
   <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
