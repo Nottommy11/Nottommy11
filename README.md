@@ -83,7 +83,7 @@
 
 #### What I'm Listening to
 
-![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&width=412&count=5)
+![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&width=822&count=5)
 
 <!--09131B-->
 
