@@ -4,35 +4,22 @@
 
 #### Languages
 
-<div class="row">
-    <div class="column">
-        <img alt="C++" width="40" src="./img/cpp.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="C" width="40" src="./img/c.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="Java" width="40" src="./img/java2.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="Python" width="40" src="./img/python.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="C#" width="40" src="./img/csharp.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="HTML5" width="40" src="./img/html5.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="CSS3" width="40" src="./img/css3.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="Sass" width="40" src="./img/sass.svg" style="padding-right: 10px" />
-    </div>
-    <div class="column">
-        <img alt="MySQL" width="40" src="./img/mysql.svg" style="padding-right: 10px" />
-    </div>
-</div>
+Nice | Nice | Nice
+---
+
+[CPP]: ./img/cpp.svg
+
+![CPP]
+
+<img alt="C++" width="40" src="./img/cpp.svg" />
+<img alt="C" width="40" src="./img/c.svg" />
+<img alt="Java" width="40" src="./img/java2.svg" />
+<img alt="Python" width="40" src="./img/python.svg" />
+<img alt="C#" width="40" src="./img/csharp.svg" />
+<img alt="HTML5" width="40" src="./img/html5.svg" style="padding-right: 10px" />
+<img alt="CSS3" width="40" src="./img/css3.svg" style="padding-right: 10px" />
+<img alt="Sass" width="40" src="./img/sass.svg" style="padding-right: 10px" />
+<img alt="MySQL" width="40" src="./img/mysql.svg" style="padding-right: 10px" />
 
 #### Tools
 
