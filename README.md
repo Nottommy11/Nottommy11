@@ -22,11 +22,14 @@
 <p float="left">
     <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="GitHub" width="40" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Discord" width="40" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Discord" width="40" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<img alt="Markdown" width="40" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <!-- To be Included/Need Better Image
 <img alt="Markdown" width="40" src="./img/markdown.svg" style="padding-right: 10px" />
