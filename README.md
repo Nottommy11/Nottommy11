@@ -77,7 +77,6 @@
 <p float="left">
     <img alt="My GitHub Stats" width="412" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
     <img alt="My Top Languages" width="412" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&langs_count=8&layout=compact">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 ---
 
