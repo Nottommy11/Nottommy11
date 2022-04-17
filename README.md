@@ -1,16 +1,19 @@
 # Hello there, I'm Thomas
 
-<a href="https://www.linkedin.com/in/thomas-marxsen">
-<img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
-</a>
-
-<!--
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-dark-mode-only)
--->
+[<img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][LinkedIn]
 
 #### Languages
 
+
+<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/images/cpp.png" />
+
+
+
+<!--
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+-->
+
+<!--
 <img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -20,14 +23,17 @@
 <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+-->
 
 #### Tools
 
+<!--
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img alt="Notion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" style="padding-right:10px;" />
+-->
 
 ---
 
@@ -71,27 +77,5 @@
 
 <!--&bg_color=09131B-->
 
-<!--
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&langs_count=10&theme=tokyonight&layout=compact&count_private=true" alt="AnhellO :: Top Langs" /></p>
-
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=8)](https://github.com/Nottommy11/github-readme-stats)
--->
-
-<!--
-**Nottommy11/Nottommy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
