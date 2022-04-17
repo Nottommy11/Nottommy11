@@ -13,6 +13,8 @@
 
 <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/python.png" />
 
+<img alt="C#" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/csharp.png" />
+
 <img alt="Markdown" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/markdown.png" />
 
 <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/html5.png" />
