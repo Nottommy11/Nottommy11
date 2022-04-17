@@ -11,6 +11,7 @@
     <img alt="Java" width="40" src="./img/java2.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python" width="40" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Markdown" width="40" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="HTML5" width="40" src="./img/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="CSS3" width="40" src="./img/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Sass" width="40" src="./img/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,9 +28,6 @@
     <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<img alt="Markdown" width="40" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 <!-- To be Included/Need Better Image
 <img alt="Markdown" width="40" src="./img/markdown.svg" style="padding-right: 10px" />
