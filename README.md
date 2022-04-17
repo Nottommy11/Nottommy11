@@ -1,7 +1,7 @@
 # Hello there, I'm Thomas
 
 #### Connect With Me
-[<img alt="LinkedIn" width="40" src="./img/linkedin.svg" style="padding-right: 10px" />][LinkedIn]
+[<img alt="LinkedIn" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Languages
 
@@ -29,12 +29,12 @@
     <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- To be Included/Need Better Image
-<img alt="Android Studio" width="40" src="./img/android-studio.svg" style="padding-right: 10px" />
+<!-- To be Included, Need Better Images, and Update.
+    <img alt="Android Studio" width="40" src="./img/android-studio.svg" style="padding-right: 10px" />
 
-<img alt="Arduino" width="40" src="./img/arduino.svg" style="padding-right: 10px" />
+    <img alt="Arduino" width="40" src="./img/arduino.svg" style="padding-right: 10px" />
 
-<img alt="Oracle VM Virtualbox" width="40" src="./img/virtualbox.svg" style="padding-right: 10px" />
+    <img alt="Oracle VM Virtualbox" width="40" src="./img/virtualbox.svg" style="padding-right: 10px" />
 -->
 
 ---
@@ -75,11 +75,10 @@
 
 ---
 
-<img alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true" />
-
-<!--&bg_color=09131B-->
+<img alt="Nottommy11's GitHub Stats" width="448" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true&bg_color=09131B" />
 
 <!-- 
     SVG Website: https://worldvectorlogo.com/
+    Tutorial I Started With: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
 -->
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
