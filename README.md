@@ -8,24 +8,24 @@
 <p float="left">
     <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Java" width="40" src="./img/java2.svg" style="padding-right: 10px" />
-    <img alt="Python" width="40" src="./img/python.svg" style="padding-right: 10px" />
-    <img alt="C#" width="40" src="./img/csharp.svg" style="padding-right: 10px" />
-    <img alt="HTML5" width="40" src="./img/html5.svg" style="padding-right: 10px" />
-    <img alt="CSS3" width="40" src="./img/css3.svg" style="padding-right: 10px" />
-    <img alt="Sass" width="40" src="./img/sass.svg" style="padding-right: 10px" />
-    <img alt="MySQL" width="40" src="./img/mysql.svg" style="padding-right: 10px" />
+    <img alt="Java" width="40" src="./img/java2.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Python" width="40" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="HTML5" width="40" src="./img/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="CSS3" width="40" src="./img/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Sass" width="40" src="./img/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="MySQL" width="40" src="./img/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 #### Tools
 
 <p float="left">
-    <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" style="padding-right: 10px" />
-    <img alt="GitHub" width="40" src="./img/github.svg" style="padding-right: 10px" />
-    <img alt="Notion" width="40" src="./img/notion.svg" style="padding-right: 10px" />
-    <img alt="Discord" width="40" src="./img/discord.svg" style="padding-right: 10px" />
-    <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" style="padding-right: 10px" />
-    <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" style="padding-right: 10px" />
+    <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="GitHub" width="40" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Discord" width="40" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- To be Included/Need Better Image
