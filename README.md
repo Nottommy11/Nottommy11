@@ -1,7 +1,39 @@
 # Hello there, I'm Thomas
 
-[![LinkedIn](./Img/linkedin-light.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-light-mode-only)
-[![LinkedIn](./Img/linkedin-dark.svg)](https://www.linkedin.com/in/thomas-marxsen#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/thomas-marxsen">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" />
+</a>
+
+#### Languages
+
+
+
+#### Tools
+
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
+<img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" style="padding-right:10px;" />
+
+<img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+
+<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+<img alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
+
+<img alt="Notion" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" style="padding-right:10px;" />
+
+<img alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
+<img alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
+
 
 ---
 
@@ -41,9 +73,10 @@
 
 ---
 
-<img align="left" alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&bg_color=09131B&text_color=c8cdcf&border_color=07e3cb&count_private=true" />
+<img alt="Nottommy11's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true" />
 
----
+
+<!--&bg_color=09131B-->
 
 <!--
 
