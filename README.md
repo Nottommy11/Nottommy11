@@ -5,8 +5,23 @@
 #### Languages
 
 
-<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/images/cpp.png" />
+<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/cpp.png" />
 
+<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/c.png" />
+
+<img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/java.png" />
+
+<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/python.png" />
+
+<img alt="Markdown" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/markdown.png" />
+
+<img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/html5.png" />
+
+<img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/css3.png" />
+
+<img alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/sass.png" />
+
+<img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/mysql.png" />
 
 
 <!--
