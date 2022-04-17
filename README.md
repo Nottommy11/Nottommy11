@@ -76,12 +76,14 @@
 ---
 <p float="left">
     <img alt="My GitHub Stats" width="411" height="165" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
-    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&langs_count=8&layout=compact">
+    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&langs_count=8&layout=compact" />
 </p>
 
 ---
 
 #### What I'm Listening to
+
+<img alt="Recently Played on Spotify" width="100%" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
 
 ![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&width=822&count=5)
 
