@@ -1,48 +1,39 @@
 # Hello there, I'm Thomas
 
-[<img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][LinkedIn]
+[<img alt="LinkedIn" width="40" src="./img/linkedin.svg" style="padding-right: 10px" />][LinkedIn]
 
 #### Languages
 
-
-<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/cpp.png" />
-
-<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/c.png" />
-
-<img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/java.png" />
-
-<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/python.png" />
-
-<img alt="C#" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/csharp.png" />
-
-<img alt="Markdown" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/markdown.png" />
-
-<img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/html5.png" />
-
-<img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/css3.png" />
-
-<img alt="Sass" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/sass.png" />
-
-<img alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/Nottommy11/Nottommy11/master/img/mysql.png" />
-
-
-<!--
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
--->
-
-<!--
-<img alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
--->
+<img alt="C++" width="40" src="./img/cpp.svg" style="padding-right: 10px" />
+<img alt="C" width="40" src="./img/c.svg" style="padding-right: 10px" />
+<img alt="Java" width="40" src="./img/java2.svg" style="padding-right: 10px" />
+<img alt="Python" width="40" src="./img/python.svg" style="padding-right: 10px" />
+<img alt="C#" width="40" src="./img/csharp.svg" style="padding-right: 10px" />
+<img alt="HTML5" width="40" src="./img/html5.svg" style="padding-right: 10px" />
+<img alt="CSS3" width="40" src="./img/css3.svg" style="padding-right: 10px" />
+<img alt="Sass" width="40" src="./img/sass.svg" style="padding-right: 10px" />
+<img alt="MySQL" width="40" src="./img/mysql.svg" style="padding-right: 10px" />
 
 #### Tools
+
+<img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" style="padding-right: 10px" />
+<img alt="GitHub" width="40" src="./img/github.svg" style="padding-right: 10px" />
+<img alt="Notion" width="40" src="./img/notion.svg" style="padding-right: 10px" />
+<img alt="Discord" width="40" src="./img/discord.svg" style="padding-right: 10px" />
+<img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" style="padding-right: 10px" />
+<img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" style="padding-right: 10px" />
+
+<!-- To be Included/Need Better Image
+<img alt="Markdown" width="40" src="./img/markdown.svg" style="padding-right: 10px" />
+
+<img alt="Android Studio" width="40" src="./img/android-studio.svg" style="padding-right: 10px" />
+
+<img alt="Arduino" width="40" src="./img/arduino.svg" style="padding-right: 10px" />
+
+<img alt="Oracle VM Virtualbox" width="40" src="./img/virtualbox.svg" style="padding-right: 10px" />
+
+
+-->
 
 <!--
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
