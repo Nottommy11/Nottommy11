@@ -11,7 +11,7 @@ Nice | Nice | Nice
 
 ![CPP]:(./img/cpp.svg =40x40)
 
-<a>
+<p>
 <img alt="C++" width="40" src="./img/cpp.svg" />
 <img alt="C" width="40" src="./img/c.svg" />
 <img alt="Java" width="40" src="./img/java2.svg" />
@@ -21,7 +21,7 @@ Nice | Nice | Nice
 <img alt="CSS3" width="40" src="./img/css3.svg" style="padding-right: 10px" />
 <img alt="Sass" width="40" src="./img/sass.svg" style="padding-right: 10px" />
 <img alt="MySQL" width="40" src="./img/mysql.svg" style="padding-right: 10px" />
-</a>
+</p>
 
 #### Tools
 
