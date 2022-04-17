@@ -1,5 +1,6 @@
 # Hello there, I'm Thomas
 
+#### Connect With Me
 [<img alt="LinkedIn" width="40" src="./img/linkedin.svg" style="padding-right: 10px" />][LinkedIn]
 
 #### Languages
