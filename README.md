@@ -6,8 +6,8 @@
 #### Languages
 
 <p float="left">
-    <img alt="C++" width="40" src="./img/cpp.svg" style="padding-right: 10px" />
-    <img alt="C" width="40" src="./img/c.svg" style="padding-right: 10px" />
+    <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Java" width="40" src="./img/java2.svg" style="padding-right: 10px" />
     <img alt="Python" width="40" src="./img/python.svg" style="padding-right: 10px" />
     <img alt="C#" width="40" src="./img/csharp.svg" style="padding-right: 10px" />
