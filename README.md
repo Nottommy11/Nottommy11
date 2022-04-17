@@ -4,14 +4,12 @@
 
 #### Languages
 
-Nice | Nice | Nice
----
+![CPP] | Nice | Nice
+---|---|---
 
-[CPP]: (./img/cpp.svg =40x40)
+[CPP]: ./img/cpp.svg
 
-![CPP]:(./img/cpp.svg =40x40)
-
-<p>
+<p float="left">
 <img alt="C++" width="40" src="./img/cpp.svg" />
 <img alt="C" width="40" src="./img/c.svg" />
 <img alt="Java" width="40" src="./img/java2.svg" />
