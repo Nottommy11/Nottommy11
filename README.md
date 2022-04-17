@@ -30,8 +30,6 @@
 </p>
 
 <!-- To be Included/Need Better Image
-<img alt="Markdown" width="40" src="./img/markdown.svg" style="padding-right: 10px" />
-
 <img alt="Android Studio" width="40" src="./img/android-studio.svg" style="padding-right: 10px" />
 
 <img alt="Arduino" width="40" src="./img/arduino.svg" style="padding-right: 10px" />
@@ -81,5 +79,7 @@
 
 <!--&bg_color=09131B-->
 
-
+<!-- 
+    SVG Website: https://worldvectorlogo.com/
+-->
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
