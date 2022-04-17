@@ -81,17 +81,7 @@
 
 ---
 
-<style>
-.spotify{
-    max-width: 100%;
-    height: auto;
-    width: auto\9;
-}
-</style>
-
-<img class="spotify" alt="Recently Played on Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
-
-![Recently Played on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&width=300&count=5)
+<img class="spotify" alt="Recently Played on Spotify" width="411" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
 
 <!--09131B-->
 
