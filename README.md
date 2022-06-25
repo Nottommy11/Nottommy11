@@ -3,6 +3,16 @@
 #### Connect With Me
 [<img alt="LinkedIn" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="default.asp">
+<img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
+
+<button onclick="document.location='default.asp'">HTML Tutorial</button>
+
+<a href="thomas.marxsen11@gmail.com">Send email</a>
+
 #### Languages
 
 <p float="left">
