@@ -6,8 +6,8 @@
 #### Languages
 
 <p float="left">
-    <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Java" width="40" src="./img/java2.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python" width="40" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,12 +25,14 @@
     <img alt="GitHub" width="40" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Discord" width="40" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- To be Included, Need Better Images, and Update.
+
     <img alt="Android Studio" width="40" src="./img/android-studio.svg" style="padding-right: 10px" />
+
+    <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 
     <img alt="Arduino" width="40" src="./img/arduino.svg" style="padding-right: 10px" />
 
@@ -87,7 +89,25 @@
 
 ---
 
-<!--Breakdown of Experience-->
+#### Breakdown of Experience
+
+| Language/Tool | Source(s) of Experience | Level of Comfort (1-10) |
+| :-----------: | :---------------------: | :--------------------: |
+| <img alt="C" width="40" src="./img/c.svg" /> | Programming I at WSC & Tutorials | 3 |
+| <img alt="C++" width="40" src="./img/cpp.svg" /> | Programming I at WSC | 6 |
+| <img alt="Java" width="40" src="./img/java2.svg" /> | Programming II at WSC | 5 |
+| <img alt="Python" width="40" src="./img/python.svg" /> | HavardX CS50P & Tutorials | 4 |
+| <img alt="C#" width="40" src="./img/csharp.svg" /> | Unity Tutorials and ACM Club | 3 |
+| <img alt="Markdown" width="40" src="./img/markdown.png" /> | Tutorials and my page | 8 |
+| <img alt="HTML5" width="40" src="./img/html5.svg" /> | Practicum Project at WSC | 5 |
+| <img alt="CSS3" width="40" src="./img/css3.svg" /> | Practicum Project at WSC | 2 |
+| <img alt="Sass" width="40" src="./img/sass.svg" /> | Practicum Project at WSC | 2 |
+| <img alt="MySQL" width="40" src="./img/mysql.svg" /> | Intro to Database at WSC | 4 |
+| <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" /> | Editor of Choice | 8 |
+| <img alt="GitHub" width="40" src="./img/github.svg" /> | Used at WSC and for Personal Projects | 6 |
+| <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM | 7 |
+| <img alt="Discord" width="40" src="./img/discord.svg" /> | Communication Channel for ACM Project Teams | 7 |
+| <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 9 |
 
 <!-- 
     SVG Website: https://worldvectorlogo.com/
