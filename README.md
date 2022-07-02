@@ -110,8 +110,10 @@
 | <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 9 |
 
 <!-- 
-    SVG Website: https://worldvectorlogo.com/
-    Tutorial I Started With For Markdown: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
+    SVG website that I got a lot of images from: https://worldvectorlogo.com/
+    Or you could just use mine
+    Tutorial I started with for Markdown: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
+    How to add recently played from Spotify: https://youtu.be/ZTYPybjYqpo
 -->
 
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
