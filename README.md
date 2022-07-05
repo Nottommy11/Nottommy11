@@ -6,11 +6,11 @@
 #### Languages
 
 <p float="left">
-    <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Java" width="40" src="./img/java2.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python" width="40" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Markdown" width="40" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="HTML5" width="40" src="./img/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="CSS3" width="40" src="./img/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
