@@ -93,11 +93,11 @@
 
 | Language/Tool | Source(s) of Experience | Level of Comfort (1-10) |
 | :-----------: | :---------------------: | :--------------------: |
-| <img alt="C" width="40" src="./img/c.svg" /> | Programming I at WSC, Tutorials, & W3 Schools | 4 |
 | <img alt="C++" width="40" src="./img/cpp.svg" /> | Programming I at WSC & W3 Schools | 6 |
-| <img alt="Java" width="40" src="./img/java2.svg" /> | Programming II at WSC & W3 Schools | 5 |
-| <img alt="Python" width="40" src="./img/python.svg" /> | HavardX CS50P, Tutorials, & W3 Schools | 4 |
+| <img alt="C" width="40" src="./img/c.svg" /> | Programming I at WSC, Tutorials, & W3 Schools | 4 |
 | <img alt="C#" width="40" src="./img/csharp.svg" /> | Unity Tutorials & ACM Club | 3 |
+| <img alt="Java" width="40" src="./img/java.svg" /> | Programming II at WSC & W3 Schools | 5 |
+| <img alt="Python" width="40" src="./img/python.svg" /> | HavardX CS50P, Tutorials, & W3 Schools | 4 |
 | <img alt="Markdown" width="40" src="./img/markdown.png" /> | Tutorials & my Page | 6 |
 | <img alt="HTML5" width="40" src="./img/html5.svg" /> | Practicum Project at WSC & W3 Schools | 5 |
 | <img alt="CSS3" width="40" src="./img/css3.svg" /> | Practicum Project at WSC | 2 |
