@@ -103,11 +103,11 @@
 | <img alt="CSS3" width="40" src="./img/css3.svg" /> | Practicum Project at WSC | 2 |
 | <img alt="Sass" width="40" src="./img/sass.svg" /> | Practicum Project at WSC | 2 |
 | <img alt="MySQL" width="40" src="./img/mysql.svg" /> | Intro to Database at WSC | 4 |
-| <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" /> | Editor of Choice | 8 |
+| <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" /> | Editor of Choice | 7 |
 | <img alt="GitHub" width="40" src="./img/github.svg" /> | Used at WSC and for Personal Projects | 6 |
 | <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM | 7 |
 | <img alt="Discord" width="40" src="./img/discord.svg" /> | Communication Channel for ACM Project Teams | 7 |
-| <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 9 |
+| <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 8 |
 
 <!-- 
     SVG website that I got a lot of images from: https://worldvectorlogo.com/
