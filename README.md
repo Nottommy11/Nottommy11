@@ -70,7 +70,7 @@
 
 #### Minor Goals for 2022
 
-- [ ] Create 5 Python Automation Projects
+- [ ] Create 5 Python/Bash Automation Projects
    - [Python Downloads Cleanup]
 - [ ] Complete the Harvard CS-50P Course
 - [ ] Participate in Coding Competitions
