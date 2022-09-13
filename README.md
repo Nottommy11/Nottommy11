@@ -47,7 +47,7 @@
 
 #### General Information About Me
 
-- Accounting 🧾 and Computer Science 💻 Major at Wayne State College
+- Computer Science 💻 Major at Wayne State College
 - Love listening to music 🎧
 - Enjoy watching the NFL 🏈 and NBA 🏀
   - Specifically the Packers and Warriors
@@ -58,22 +58,24 @@
 
 #### Major Goals for 2022
 
-- [ ] Contribute to Open-source Projects
-- [ ] Create Projects That Have Real World Applications
+- [ ] Complete Some Arduino Projects
+- [ ] Create an Interactive Periodic Table with a Team
 - [ ] Develop a 2D Game in Unity with WSCs ACM Club
-- [ ] Work on a 3D Game in Unity
+- [ ] Create a Portfolio Website
 - [X] Obtain an Internship for the Summer of 2022
+ - Interned at Cruise & Associates as an Accounting Intern
 - [ ] Obtain an Internship for the Summer of 2023
 
 ---
 
 #### Minor Goals for 2022
 
-- [ ] Incorporate a Web-scraper with A Project
+- [ ] Use Python for Automation
+ - Download File Cleanup
 - [ ] Complete the Harvard CS-50P Course
-- [ ] Advance my Knowledge of Data Structures and Algorithms
+- [ ] Participate in Coding Competitions
 - [ ] Get Exposure to ML & AI
-- [ ] Get Exposure to AWS, Google Cloud, and APIs in General
+- [ ] Get Exposure to Working with Embedded Systems
 
 ---
 <p float="left">
