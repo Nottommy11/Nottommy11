@@ -63,15 +63,15 @@
 - [ ] Develop a 2D Game in Unity with WSCs ACM Club
 - [ ] Create a Portfolio Website
 - [X] Obtain an Internship for the Summer of 2022
- - - Interned at Cruise & Associates as an Accounting Intern
+   - Interned at Cruise & Associates as an Accounting Intern
 - [ ] Obtain an Internship for the Summer of 2023
 
 ---
 
 #### Minor Goals for 2022
 
-- [ ] Use Python for Automation
- - - [Python Downloads Cleanup](Download File Cleanup)
+- [ ] Create 5 Python Automation Projects
+   - [Python Downloads Cleanup]
 - [ ] Complete the Harvard CS-50P Course
 - [ ] Participate in Coding Competitions
 - [ ] Get Exposure to ML & AI
@@ -118,6 +118,8 @@
     How to add recently played from Spotify: https://youtu.be/ZTYPybjYqpo
 -->
 
+<!-- General Links -->
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
 
+<!-- Python Automation Links-->
 [Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Downloads%20File%20Type%20Manager/downloads_cleanup.py
