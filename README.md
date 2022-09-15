@@ -87,7 +87,7 @@
 
 <p float="left">
     <img alt="My GitHub Stats" width="411" height="165" src="https://github-readme-stats.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
-    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=8&bg_color=0d1117&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&card_width=411&hide=CSS,SCSS" />
+    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=9&bg_color=0d1117&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&card_width=411&hide=CSS,SCSS" />
 </p>
 
 ---
@@ -128,5 +128,5 @@
 <!-- General Links -->
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
 
-<!-- Python Automation Links-->
+<!-- Python/Bash Automation Links-->
 [Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Downloads%20File%20Type%20Manager/downloads_cleanup.py
