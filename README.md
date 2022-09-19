@@ -74,6 +74,7 @@
    - [Python Downloads Cleanup]
 - [ ] Complete the Harvard CS-50P Course
 - [ ] Participate in Coding Competitions
+   - Google's Hash Code Competition - ACM team at WSC
 - [ ] Get Exposure to ML & AI
 - [ ] Get Exposure to Working with Embedded Systems
 
