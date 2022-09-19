@@ -3,8 +3,9 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '21 6 * * *'
+    # At every 30th minute from 1 through 59.
+    # https://crontab.guru/#1/30_*_*_*_*
+    - cron: '1/30 * * * *'
 
 jobs:
   update-readme:
