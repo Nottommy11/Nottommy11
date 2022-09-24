@@ -85,15 +85,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 23 September 2022
+From: 13 September 2022 - To: 24 September 2022
 
-Total Time: 13 hrs 12 mins
+Total Time: 15 hrs 28 mins
 
-Python           7 hrs 50 mins   >>>>>>>>>>>>>>>----------   59.38 %
-Java             4 hrs 8 mins    >>>>>>>>-----------------   31.34 %
-JavaScript       1 hr 7 mins     >>-----------------------   08.48 %
-CSS              3 mins          -------------------------   00.48 %
-Text             1 min           -------------------------   00.22 %
+Python           8 hrs 37 mins   >>>>>>>>>>>>>>-----------   55.78 %
+Java             5 hrs 36 mins   >>>>>>>>>----------------   36.28 %
+JavaScript       1 hr 7 mins     >>-----------------------   07.24 %
+CSS              3 mins          -------------------------   00.41 %
+Text             1 min           -------------------------   00.19 %
 SVG              0 secs          -------------------------   00.05 %
 ```
 
