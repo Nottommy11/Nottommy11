@@ -73,6 +73,7 @@
 - [ ] Create 5 Python/Bash Automation Projects
    - [Python Downloads Cleanup]
 - [ ] Complete the Harvard CS-50P Course
+   - [CS-50P Problem Sets]
 - [ ] Participate in Coding Competitions
    - Google's Hash Code Competition - ACM team at WSC
 - [ ] Get Exposure to ML & AI
@@ -146,3 +147,6 @@ SVG              0 secs          -------------------------   00.05 %
 
 <!-- Python/Bash Automation Links-->
 [Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Downloads%20File%20Type%20Manager/downloads_cleanup.py
+
+<!-- Other Goals Links -->
+[CS-50P Problem Sets]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Python/CS-50P
