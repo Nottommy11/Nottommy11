@@ -58,9 +58,9 @@
 
 #### Major Goals for 2022
 
-- [ ] Complete Some Arduino Projects
-- [ ] Create an Interactive Periodic Table with a Team
-- [ ] Develop a 2D Game in Unity with WSCs ACM Club
+- [ ] Lead the ACM Software Team to Complete Projects
+- [ ] Create a Simple Mod for a Game
+- [ ] Develop a Simple 3D Game with Unreal/Unity
 - [ ] Create a Portfolio Website
 - [X] Obtain an Internship for the Summer of 2022
    - Interned at Cruise & Associates as an Accounting Intern
@@ -122,8 +122,8 @@ CSS              9 mins          -------------------------   00.59 %
 | <img alt="C++" width="40" src="./img/cpp.svg" /> | Programming I at WSC & W3 Schools | 6 |
 | <img alt="C" width="40" src="./img/c.svg" /> | Programming I at WSC, Tutorials, & W3 Schools | 4 |
 | <img alt="C#" width="40" src="./img/csharp.svg" /> | Unity Tutorials & ACM Club | 3 |
-| <img alt="Java" width="40" src="./img/java.svg" /> | Programming II at WSC & W3 Schools | 5 |
-| <img alt="Python" width="40" src="./img/python.svg" /> | HavardX CS50P, Tutorials, & W3 Schools | 4 |
+| <img alt="Java" width="40" src="./img/java.svg" /> | Programming II at WSC & W3 Schools | 6 |
+| <img alt="Python" width="40" src="./img/python.svg" /> | HavardX CS50P, Tutorials, & W3 Schools | 6 |
 | <img alt="Markdown" width="40" src="./img/markdown.png" /> | Tutorials & my Page | 6 |
 | <img alt="HTML5" width="40" src="./img/html5.svg" /> | Practicum Project at WSC & W3 Schools | 5 |
 | <img alt="CSS3" width="40" src="./img/css3.svg" /> | Practicum Project at WSC | 2 |
@@ -131,7 +131,7 @@ CSS              9 mins          -------------------------   00.59 %
 | <img alt="MySQL" width="40" src="./img/mysql.svg" /> | Intro to Database at WSC | 4 |
 | <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" /> | Editor of Choice | 7 |
 | <img alt="GitHub" width="40" src="./img/github.svg" /> | Used at WSC and for Personal Projects | 6 |
-| <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM | 7 |
+| <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM | 8 |
 | <img alt="Discord" width="40" src="./img/discord.svg" /> | Communication Channel for ACM Project Teams | 7 |
 | <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 8 |
 
