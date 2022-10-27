@@ -119,20 +119,20 @@ CSS              9 mins          -------------------------   00.54 %
 
 | Language/Tool | Source(s) of Experience | Level of Comfort (1-10) |
 | :-----------: | :---------------------: | :--------------------: |
-| <img alt="C++" width="40" src="./img/cpp.svg" /> | Programming I at WSC & W3 Schools | 6 |
-| <img alt="C" width="40" src="./img/c.svg" /> | Programming I at WSC, Tutorials, & W3 Schools | 4 |
+| <img alt="C++" width="40" src="./img/cpp.svg" /> | [CPP Undergrad Projects] | 6 |
+| <img alt="C" width="40" src="./img/c.svg" /> | Tutorials, W3 Schools, [C Undergrad Projects] | 4 |
 | <img alt="C#" width="40" src="./img/csharp.svg" /> | Unity Tutorials & ACM Club | 3 |
-| <img alt="Java" width="40" src="./img/java.svg" /> | Programming II at WSC & W3 Schools | 6 |
-| <img alt="Python" width="40" src="./img/python.svg" /> | HavardX CS50P, Tutorials, & W3 Schools | 6 |
-| <img alt="Markdown" width="40" src="./img/markdown.png" /> | Tutorials & my Page | 6 |
-| <img alt="HTML5" width="40" src="./img/html5.svg" /> | Practicum Project at WSC & W3 Schools | 5 |
-| <img alt="CSS3" width="40" src="./img/css3.svg" /> | Practicum Project at WSC | 2 |
-| <img alt="Sass" width="40" src="./img/sass.svg" /> | Practicum Project at WSC | 2 |
+| <img alt="Java" width="40" src="./img/java.svg" /> | [Java Undergrad Projects] | 6 |
+| <img alt="Python" width="40" src="./img/python.svg" /> | [Python Undergrad Projects] | 6 |
+| <img alt="Markdown" width="40" src="./img/markdown.png" /> | [Markdown Undergrad Projects] & my Page | 6 |
+| <img alt="HTML5" width="40" src="./img/html5.svg" /> | [HTML5 Undergrad Projects] | 5 |
+| <img alt="CSS3" width="40" src="./img/css3.svg" /> | [CSS3 Undergrad Projects] | 2 |
+| <img alt="Sass" width="40" src="./img/sass.svg" /> | [Sass Undergrad Projects] | 2 |
 | <img alt="MySQL" width="40" src="./img/mysql.svg" /> | Intro to Database at WSC | 4 |
 | <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" /> | Editor of Choice | 7 |
 | <img alt="GitHub" width="40" src="./img/github.svg" /> | Used at WSC and for Personal Projects | 6 |
-| <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM | 8 |
-| <img alt="Discord" width="40" src="./img/discord.svg" /> | Communication Channel for ACM Project Teams | 7 |
+| <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM & CEO | 8 |
+| <img alt="Discord" width="40" src="./img/discord.svg" /> | Communication Channel for ACM & UPE | 7 |
 | <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 8 |
 
 <!-- 
@@ -150,3 +150,13 @@ CSS              9 mins          -------------------------   00.54 %
 
 <!-- Other Goals Links -->
 [CS-50P Problem Sets]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Python/CS-50P
+
+<!-- Experience Table Links -->
+[CPP Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/CPP
+[C Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/C
+[Java Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Java
+[Python Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Python
+[Markdown Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Markdown
+[HTML5 Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Web%20Development
+[CSS3 Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Web%20Development
+[Sass Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Web%20Development
