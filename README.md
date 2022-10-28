@@ -72,6 +72,7 @@
 
 - [ ] Create 5 Python/Bash Automation Projects
    - [Python Downloads Cleanup]
+   - [Hack The Box OpenVPN Bash Startup]
 - [ ] Complete the Harvard CS-50P Course
    - [CS-50P Problem Sets]
 - [ ] Participate in Coding Competitions
@@ -147,6 +148,7 @@ CSS              9 mins          -------------------------   00.53 %
 
 <!-- Python/Bash Automation Links-->
 [Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Downloads%20File%20Type%20Manager/downloads_cleanup.py
+[Hack The Box OpenVPN Bash Startup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Bash/HackTheBoxOpenVPN.sh
 
 <!-- Other Goals Links -->
 [CS-50P Problem Sets]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Python/CS-50P
