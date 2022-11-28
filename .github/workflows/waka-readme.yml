@@ -18,7 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKATIME_GITHUB_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: 14_days
+          TIME_RANGE: last_14_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           SHOW_LINES_OF_CODE: true
