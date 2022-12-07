@@ -3,8 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    # - cron: '30 18 * * *' 
-    - cron: '1/5 * * * *'
+    - cron: '30 18 * * *'
     # At every 30th minute from 1 through 59.
     # https://crontab.guru/#1/30_*_*_*_*
     # - cron: '1/30 * * * *'
