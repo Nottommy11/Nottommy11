@@ -59,11 +59,14 @@
 #### Major Goals for 2022
 
 - [ ] Lead the ACM Software Team to Complete Projects
+   - Worked on Pen-testing with Kali Linux VMs on HackTheBox and OverTheWire
 - [ ] Create a Simple Mod for a Game
 - [ ] Develop a Simple 3D Game with Unreal/Unity
 - [ ] Create a Portfolio Website
 - [X] Obtain an Internship for the Summer of 2022
    - Interned at Cruise & Associates as an Accounting Intern
+- [X] obtain an Internship for the Spring of 2023
+   - Intern at Daycos as a Software Engineer
 - [ ] Obtain an Internship for the Summer of 2023
 
 ---
