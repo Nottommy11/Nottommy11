@@ -159,11 +159,11 @@ C#                       1 repo              ███░░░░░░░░�
 
 ```
 
+<!--
+    **Timeline**
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/charts/bar_graph.png) 
-
+    ![Chart not found](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/charts/bar_graph.png) 
+-->
 
  Last Updated on 20/01/2023 02:23:02 UTC
 <!--END_SECTION:waka-->
