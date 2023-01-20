@@ -1,7 +1,7 @@
 # Hello there, I'm Thomas
 
 #### Connect With Me
-[<img alt="LinkedIn" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
+[<a href=[LinkedIn] target="_blank"> <img alt="LinkedIn" width="40" src="./img/linkedin.svg" /> </a>][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Languages
 
