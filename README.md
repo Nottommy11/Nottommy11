@@ -56,7 +56,7 @@
 
 ---
 
-#### Major Goals for 2022
+#### Major Goals
 
 - [ ] Lead the ACM Software Team to Complete Projects
    - Worked on Pen-testing with Kali Linux VMs on HackTheBox and OverTheWire
@@ -71,7 +71,7 @@
 
 ---
 
-#### Minor Goals for 2022
+#### Minor Goals
 
 - [ ] Create 5 Python/Bash Automation Projects
    - [Python Downloads Cleanup]
