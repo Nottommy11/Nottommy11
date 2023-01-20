@@ -1,7 +1,7 @@
 # Hello there, I'm Thomas
 
 #### Connect With Me
-[<a href="https://www.linkedin.com/in/thomas-marxsen" target="_blank"> <img alt="LinkedIn" width="40" src="./img/linkedin.svg" /> </a>][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
+[<a href="https://www.linkedin.com/in/thomas-marxsen" target="_blank"> <img alt="LinkedIn" target="_blank" width="40" src="./img/linkedin.svg" /> </a>][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Languages
 
