@@ -5,7 +5,7 @@
 
 #### Languages
 
-<p float="left">
+<div float="left">
     <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
     <img alt="CSS3" width="40" src="./img/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Sass" width="40" src="./img/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="MySQL" width="40" src="./img/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</div>
 
 #### Tools
 
