@@ -20,13 +20,13 @@
 
 #### Tools
 
-<p float="left">
+<div float="left">
     <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="GitHub" width="40" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Discord" width="40" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</div>
 
 <!-- To be Included, Need Better Images, and Update.
 
@@ -170,16 +170,17 @@ C#                       1 repo              ███░░░░░░░░�
 
 ---
 
-<p float="left">
-    <img alt="My GitHub Stats" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=ffffff&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
-    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=15&bg_color=0d1117&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&card_width=411&hide=&border_color=ffffff" />
-</p>
+<div float="left">
+    <img class="github-stats" alt="My GitHub Stats" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=ffffff&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
+    <img class="top_langs" alt="My Top Languages" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=15&bg_color=0d1117&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&card_width=411&hide=&border_color=ffffff" />
+</div>
 
 ---
 
-<img class="spotify" alt="Recently Played on Spotify" width="411" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
-
-[![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
+<div float="left">
+    <img class="spotify-now-playing" alt="Spotify Now Playing" src="[![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)" />
+    <img class="spotify-recents" alt="Recently Played on Spotify" width="411" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
+</div>
 
 <!--09131B-->
 
