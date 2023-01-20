@@ -172,6 +172,8 @@ C#                       1 repo              ███░░░░░░░░�
  Last Updated on 20/01/2023 18:42:50 UTC
 <!--END_SECTION:waka-->
 
+*I don't think that chart is working properly*
+
 ---
 
 <div float="left">
