@@ -179,7 +179,7 @@ C#                       1 repo              ███░░░░░░░░�
 
 <img class="spotify" alt="Recently Played on Spotify" width="411" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
 
-[![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff&currentstatus=Now_Vibing_To)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
+[![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
 
 <!--09131B-->
 
