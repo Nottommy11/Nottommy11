@@ -171,15 +171,15 @@ C#                       1 repo              ███░░░░░░░░�
 ---
 
 <p float="left">
-    <img alt="My GitHub Stats" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=07e3cb&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
-    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=15&bg_color=0d1117&hide_border=true&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&card_width=411&hide=" />
+    <img alt="My GitHub Stats" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api?username=Nottommy11&show_icons=true&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&border_color=ffffff&count_private=true&bg_color=0d1117#gh-dark-mode-only" />
+    <img alt="My Top Languages" width="411" height="165" src="https://github-readme-stats-1-2023.vercel.app/api/top-langs/?username=Nottommy11&layout=compact&langs_count=15&bg_color=0d1117&hide_border=false&title_color=07e3cb&icon_color=edc802&text_color=c8cdcf&card_width=411&hide=&border_color=ffffff" />
 </p>
 
 ---
 
 <img class="spotify" alt="Recently Played on Spotify" width="411" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
 
-[![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
+[![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?height=183&background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
 
 <!--09131B-->
 
