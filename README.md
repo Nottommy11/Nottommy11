@@ -8,6 +8,8 @@
    <img alt="Spotify" width="40" src="./img/Spotify.svg" />
 </a>
 
+<br>
+
 [![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
 
 #### Languages
