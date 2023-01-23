@@ -68,6 +68,7 @@
 - [ ] Create a Simple Mod for a Game
 - [ ] Develop a Simple 3D Game with Unreal/Unity
 - [ ] Create a Portfolio Website
+   - Working on it! [Todo Manager]
 - [X] Obtain an Internship for the Summer of 2022
    - Interned at Cruise & Associates as an Accounting Intern
 - [X] Obtain an Internship for the Spring of 2023
@@ -196,9 +197,6 @@ C#                       1 repo              ███░░░░░░░░�
 
 <img class="spotify-recents" alt="Recently Played on Spotify" width="411" src="https://spotify-recently-played-readme.vercel.app/api?user=qqcq2h6pr1xe9p1s792354sk4&count=5" />
 
-
-<!--09131B-->
-
 ---
 
 #### Breakdown of Experience
@@ -230,10 +228,11 @@ C#                       1 repo              ███░░░░░░░░�
 
 <!-- General Links -->
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
-<<<<<<< HEAD
-=======
 
-<!-- Python/Bash Automation Links-->
+<!-- Major Goals Links -->
+[Todo Manager]: https://nottommy11.github.io/index.html
+
+<!-- Python/Bash Automation Links -->
 [Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Downloads%20File%20Type%20Manager/downloads_cleanup.py
 [Hack The Box OpenVPN Bash Startup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Bash/HackTheBoxOpenVPN.sh
 
@@ -249,4 +248,3 @@ C#                       1 repo              ███░░░░░░░░�
 [HTML5 Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Web%20Development
 [CSS3 Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Web%20Development
 [Sass Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Web%20Development
->>>>>>> 73d9d645512ae8a2bfed4af62e41823b830efd8e
