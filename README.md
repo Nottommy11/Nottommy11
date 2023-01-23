@@ -3,6 +3,9 @@
 #### Connect With Me
 [<img alt="LinkedIn" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Check Out My Playlist!
+[<img alt="Spotify" width="40" src="./img/Spotify.svg" />][Spotify]&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Languages
 
 <p float="left">
@@ -115,3 +118,4 @@
 -->
 
 [LinkedIn]: https://www.linkedin.com/in/thomas-marxsen
+[Spotify]: https://open.spotify.com/playlist/1rc4BEo9sw0wfW57AnoY9l?si=acfbde41fa174468
