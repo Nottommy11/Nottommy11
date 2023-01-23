@@ -1,14 +1,12 @@
 # Hello there, I'm Thomas
 
 #### Connect With Me
-[<img alt="LinkedIn" target="_blank" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="LinkedIn" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Check Out My Playlist!
-<div>
 <a href="https://open.spotify.com/playlist/1rc4BEo9sw0wfW57AnoY9l?si=acfbde41fa174468">
-   <img alt="Spotify" width="40" src="./img/spotify.svg" />
+   <img alt="Spotify" width="40" src="./img/Spotify.svg" />
 </a>
-</div>
 
 #### Languages
 
