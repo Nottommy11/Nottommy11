@@ -100,7 +100,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -141,20 +141,16 @@ Sunday                   249 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               1 hr 26 mins        ██████████████░░░░░░░░░░░   55.60 % 
-CSS                      58 mins             █████████░░░░░░░░░░░░░░░░   37.21 % 
-C++                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-to-do-manager            2 hrs 24 mins       ███████████████████████░░   92.34 % 
-Wind Turbine MEGA        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Natours                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +170,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2023 18:35:58 UTC
+ Last Updated on 09/05/2023 18:36:28 UTC
 <!--END_SECTION:waka-->
 
 *I don't think that chart is working properly*
