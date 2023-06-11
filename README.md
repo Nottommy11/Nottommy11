@@ -104,7 +104,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 901.5 kB Used in GitHub's Storage 
+> 📦 901.6 kB Used in GitHub's Storage 
  > 
 > 🏆 277 Contributions in the Year 2023
  > 
@@ -170,7 +170,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2023 18:36:06 UTC
+ Last Updated on 11/06/2023 18:35:39 UTC
 <!--END_SECTION:waka-->
 
 *I don't think that chart is working properly*
