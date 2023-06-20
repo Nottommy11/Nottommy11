@@ -77,7 +77,8 @@
    - Interned at Cruise & Associates as an Accounting Intern
 - [X] Obtain an Internship for the Spring of 2023
    - Intern at Daycos as a Software Engineer
-- [ ] Obtain an Internship for the Summer of 2023
+- [X] Obtain an Internship for the Summer of 2023
+   - Intern at Daycos as a Software Engineer
 
 ---
 
