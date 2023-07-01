@@ -142,20 +142,16 @@ Sunday                   249 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Svelte                   1 hr 1 min          ████████████████████░░░░░   80.41 % 
-JavaScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nettie-svelte-test       1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,7 +171,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2023 18:38:53 UTC
+ Last Updated on 01/07/2023 18:37:30 UTC
 <!--END_SECTION:waka-->
 
 *I don't think that chart is working properly*
