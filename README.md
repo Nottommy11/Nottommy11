@@ -101,7 +101,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -171,7 +171,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2023 18:38:48 UTC
+ Last Updated on 04/07/2023 18:41:08 UTC
 <!--END_SECTION:waka-->
 
 *I don't think that chart is working properly*
