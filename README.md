@@ -99,7 +99,7 @@
 #### WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -142,17 +142,19 @@ Sunday                   249 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Svelte                   2 hrs 49 mins       █████████████████████████   99.32 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Svelte                   3 hrs 14 mins       █████████████████████████   99.28 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nettie-svelte-test       2 hrs 50 mins       █████████████████████████   100.00 % 
+nettie-svelte-test       3 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +174,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2023 18:36:04 UTC
+ Last Updated on 28/07/2023 18:35:57 UTC
 <!--END_SECTION:waka-->
 
 *I don't think that chart is working properly*
