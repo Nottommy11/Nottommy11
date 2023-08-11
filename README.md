@@ -99,7 +99,7 @@
 #### WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -174,7 +174,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Nottommy11/Nottommy11/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2023 18:35:52 UTC
+ Last Updated on 11/08/2023 18:36:11 UTC
 <!--END_SECTION:waka-->
 
 *I don't think that chart is working properly*
