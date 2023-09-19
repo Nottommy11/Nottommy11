@@ -72,7 +72,7 @@
 - [ ] Create a Simple Mod for a Game
 - [ ] Develop a Simple 3D Game with Unreal/Unity
 - [ ] Get WSCNettie Live to Production
-   - [wscnettie.com]
+   - [wscnettie.com](https://wscnettie.com)
 - [X] Obtain an Internship for the Summer of 2022
    - Interned at Cruise & Associates as an Accounting Intern
 - [X] Obtain an Internship for the Spring of 2023
