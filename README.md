@@ -91,10 +91,12 @@
    - [Hack The Box OpenVPN Bash Startup]
 - [ ] Complete the Harvard CS-50P Course
    - [CS-50P Problem Sets]
-- [ ] Participate in Coding Competitions
-   - Google's Hash Code Competition - ACM team at WSC
+- [X] Participate in Coding Competitions
+   - Google's Hash Code Competition - ACM Team at WSC
+   - Code Forces - ACM Team at WSC
 - [ ] Get Exposure to ML & AI
 - [ ] Get Exposure to Working with Embedded Systems
+- [ ] Update Profile README with Current Skills
 
 ---
 
