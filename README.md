@@ -71,8 +71,8 @@
    - Worked on Pen-testing with Kali Linux VMs on HackTheBox and OverTheWire
 - [ ] Create a Simple Mod for a Game
 - [ ] Develop a Simple 3D Game with Unreal/Unity
-- [ ] Create a Portfolio Website
-   - Working on it! [Todo Manager]
+- [ ] Get WSCNettie Live to Production
+   - [wscnettie.com]
 - [X] Obtain an Internship for the Summer of 2022
    - Interned at Cruise & Associates as an Accounting Intern
 - [X] Obtain an Internship for the Spring of 2023
@@ -212,7 +212,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!-- 
     SVG website that I got a lot of images from: https://worldvectorlogo.com/
     Or you could just use mine
-    Tutorial I started with for Markdown: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
+    The tutorial I started with for Markdown: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
     How to add recently played from Spotify: https://youtu.be/ZTYPybjYqpo
 -->
 
