@@ -230,7 +230,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 [Todo Manager]: https://nottommy11.github.io/index.html
 
 <!-- Python/Bash Automation Links -->
-[Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Tutorials/Downloads%20File%20Type%20Manager/downloads_cleanup.py
+[Python Downloads Cleanup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Python/Tutorials/DownloadsFileTypeManager/downloads_cleanup.py
 [Hack The Box OpenVPN Bash Startup]: https://github.com/Nottommy11/Undergrad_Projects/blob/main/Bash/HackTheBoxOpenVPN.sh
 
 <!-- Other Goals Links -->
