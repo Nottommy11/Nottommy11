@@ -1,52 +1,56 @@
 # Hello there, I'm Thomas
 
 #### Connect With Me
-[<img alt="LinkedIn" width="40" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="LinkedIn" width="48" src="./img/linkedin.svg" />][LinkedIn]&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Check Out My Playlist!
 <a href="https://open.spotify.com/playlist/1rc4BEo9sw0wfW57AnoY9l?si=acfbde41fa174468">
-   <img alt="Spotify" width="40" src="./img/Spotify.svg" />
+   <img alt="Spotify" width="48" src="./img/Spotify.svg" />
 </a>
 
 <br>
 
 [![Spotify](https://novatorem-two-vert-24.vercel.app/api/spotify/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/qqcq2h6pr1xe9p1s792354sk4?si=325faf9422d44a18&nd=1)
 
-#### Languages
+#### Languages, Frameworks/Libraries, & Database Systems
 
 <div float="left">
-    <img alt="C++" width="40" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C" width="40" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C#" width="40" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Java" width="40" src="./img/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Python" width="40" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Markdown" width="40" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="HTML5" width="40" src="./img/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="CSS3" width="40" src="./img/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Sass" width="40" src="./img/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="MySQL" width="40" src="./img/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C++" width="48" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C" width="48" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="C#" width="48" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Java" width="48" src="./img/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Python" width="48" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Markdown" width="48" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="HTML5" width="48" src="./img/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="JavaScript" width="48" src="./img/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="CSS3" width="48" src="./img/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Sass" width="48" src="./img/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="MySQL" width="48" src="./img/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Hasura" width="48" src="./img/hasuraio-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="GraphQL" width="48" src="./img/graphql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="SvelteKit" width="48" src="./img/svelte-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="React" width="48" src="./img/reactjs-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Selenium" width="48" src="./img/selenium.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-#### Tools
+#### Tools & Software
 
 <div float="left">
-    <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="GitHub" width="40" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Discord" width="40" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Visual Studio Code" width="48" src="./img/visual-studio-code.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Visual Studio" width="48" src="./img/visual-studio.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="PyCharm" width="48" src="./img/pycharm.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="GitHub" width="48" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Docker" width="48" src="./img/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Postman" width="48" src="./img/getpostman-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Virtual Box" width="48" src="./img/virtualbox-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Arduino" width="48" src="./img/arduino.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="SolidWorks" width="48" src="./img/solidworks.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Microsoft Teams" width="48" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Discord" width="48" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Slack" width="48" src="./img/slack.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Microsoft Windows" width="48" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Linux" width="48" src="./img/linux-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-
-<!-- To be Included, Need Better Images, and Update.
-
-    <img alt="Android Studio" width="40" src="./img/android-studio.svg" style="padding-right: 10px" />
-
-    <img alt="Notion" width="40" src="./img/notion.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-    <img alt="Arduino" width="40" src="./img/arduino.svg" style="padding-right: 10px" />
-
-    <img alt="Oracle VM Virtualbox" width="40" src="./img/virtualbox.svg" style="padding-right: 10px" />
--->
 
 ---
 
@@ -105,7 +109,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
 
@@ -133,7 +137,7 @@
 Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 Tuesday                  123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Friday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 Saturday                 177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
@@ -192,28 +196,34 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ---
 
+<!-- Don't know if I really like this table anymore
+
 #### Breakdown of Experience
 
 | Language/Tool | Source(s) of Experience | Level of Comfort (1-10) |
 | :-----------: | :---------------------: | :--------------------: |
-| <img alt="C++" width="40" src="./img/cpp.svg" /> | [CPP Undergrad Projects] | 6 |
-| <img alt="C" width="40" src="./img/c.svg" /> | Tutorials, W3 Schools, [C Undergrad Projects] | 4 |
-| <img alt="C#" width="40" src="./img/csharp.svg" /> | Unity Tutorials & ACM Club | 3 |
-| <img alt="Java" width="40" src="./img/java.svg" /> | [Java Undergrad Projects] | 6 |
-| <img alt="Python" width="40" src="./img/python.svg" /> | [Python Undergrad Projects] | 6 |
-| <img alt="Markdown" width="40" src="./img/markdown.png" /> | [Markdown Undergrad Projects] & my Page | 6 |
-| <img alt="HTML5" width="40" src="./img/html5.svg" /> | [HTML5 Undergrad Projects] | 5 |
-| <img alt="CSS3" width="40" src="./img/css3.svg" /> | [CSS3 Undergrad Projects] | 2 |
-| <img alt="Sass" width="40" src="./img/sass.svg" /> | [Sass Undergrad Projects] | 2 |
-| <img alt="MySQL" width="40" src="./img/mysql.svg" /> | Intro to Database at WSC | 4 |
-| <img alt="Visual Studio Code" width="40" src="./img/visual-studio-code.svg" /> | Editor of Choice | 7 |
-| <img alt="GitHub" width="40" src="./img/github.svg" /> | Used at WSC and for Personal Projects | 6 |
-| <img alt="Microsoft Teams" width="40" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM & CEO | 8 |
-| <img alt="Discord" width="40" src="./img/discord.svg" /> | Communication Channel for ACM & UPE | 7 |
-| <img alt="Microsoft Windows" width="40" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 8 |
+| <img alt="C++" width="48" src="./img/cpp.svg" /> | [CPP Undergrad Projects] | 6 |
+| <img alt="C" width="48" src="./img/c.svg" /> | Tutorials, W3 Schools, [C Undergrad Projects] | 4 |
+| <img alt="C#" width="48" src="./img/csharp.svg" /> | Unity Tutorials & ACM Club | 3 |
+| <img alt="Java" width="48" src="./img/java.svg" /> | [Java Undergrad Projects] | 6 |
+| <img alt="Python" width="48" src="./img/python.svg" /> | [Python Undergrad Projects] | 6 |
+| <img alt="Markdown" width="48" src="./img/markdown.png" /> | [Markdown Undergrad Projects] & my Page | 6 |
+| <img alt="HTML5" width="48" src="./img/html5.svg" /> | [HTML5 Undergrad Projects] | 5 |
+| <img alt="CSS3" width="48" src="./img/css3.svg" /> | [CSS3 Undergrad Projects] | 2 |
+| <img alt="Sass" width="48" src="./img/sass.svg" /> | [Sass Undergrad Projects] | 2 |
+| <img alt="MySQL" width="48" src="./img/mysql.svg" /> | Intro to Database at WSC | 4 |
+| <img alt="Visual Studio Code" width="48" src="./img/visual-studio-code.svg" /> | Editor of Choice | 7 |
+| <img alt="GitHub" width="48" src="./img/github.svg" /> | Used at WSC and for Personal Projects | 6 |
+| <img alt="Microsoft Teams" width="48" src="./img/microsoft-teams.svg" /> | Communication Channel for ACM & CEO | 8 |
+| <img alt="Discord" width="48" src="./img/discord.svg" /> | Communication Channel for ACM & UPE | 7 |
+| <img alt="Microsoft Windows" width="48" src="./img/microsoft-windows.svg" /> | Operating System of Choice | 8 |
+
+-->
 
 <!-- 
     SVG website that I got a lot of images from: https://worldvectorlogo.com/
+    And: https://www.vectorlogo.zone/
+    And: https://icons8.com/
     Or you could just use mine
     The tutorial I started with for Markdown: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
     How to add recently played from Spotify: https://youtu.be/ZTYPybjYqpo
