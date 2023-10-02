@@ -103,7 +103,7 @@
    - Advanced Hardware at WSC (Arduino)
    - [Arduino Security Cam]
    - [Arduino Wind Turbine]
-- [ ] Update Profile README with Current Skills
+- [X] Update Profile README with Current Skills
 
 ---
 
