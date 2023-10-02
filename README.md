@@ -99,7 +99,10 @@
    - Google's Hash Code Competition - ACM Team at WSC
    - Code Forces - ACM Team at WSC
 - [ ] Get Exposure to ML & AI
-- [ ] Get Exposure to Working with Embedded Systems
+- [X] Get Exposure to Working with Embedded Systems
+   - Advanced Hardware at WSC (Arduino)
+   - [Arduino Security Cam]
+   - [Arduino Wind Turbine]
 - [ ] Update Profile README with Current Skills
 
 ---
@@ -240,6 +243,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!-- Other Goals Links -->
 [CS-50P Problem Sets]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/Python/CS-50P
+[Arduino Security Cam]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/CPP/Arduino%20Security%20Cam
+[Arduino Wind Turbine]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/CPP/Wind%20Turbine
 
 <!-- Experience Table Links -->
 [CPP Undergrad Projects]: https://github.com/Nottommy11/Undergrad_Projects/tree/main/CPP
