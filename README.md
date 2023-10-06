@@ -89,7 +89,7 @@
 
 #### Minor Goals
 
-- [ ] Create 5 Python/Bash Automation Projects
+- [X] Create Python/Bash Automation Projects
    - [Python Downloads Cleanup]
    - [Hack The Box OpenVPN Bash Startup]
 - [ ] Complete the Harvard CS-50P Course
