@@ -83,7 +83,8 @@
    - Intern at Daycos as a Software Engineer
 - [X] Obtain an Internship for the Summer of 2023
    - Intern at Daycos as a Software Engineer
-- [ ] Obtain an Internship for the Fall of 2023
+- [X] Obtain an Internship for the Fall of 2023
+   - Intern at Northeast Community College as a Technology Services Intern
 
 ---
 
