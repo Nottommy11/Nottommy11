@@ -112,13 +112,13 @@
 #### WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 909.7 kB Used in GitHub's Storage 
  > 
-> 🏆 448 Contributions in the Year 2023
+> 🏆 449 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,6 +126,45 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                254 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌆 Daytime                362 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌃 Evening                355 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+🌙 Night                  608 commits         ██████████░░░░░░░░░░░░░░░   38.51 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Tuesday                  154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Thursday                 243 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Friday                   264 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Saturday                 177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Sunday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -139,7 +178,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:42:33 UTC
+ Last Updated on 12/12/2023 18:41:15 UTC
 <!--END_SECTION:waka-->
 
 ---
