@@ -149,19 +149,16 @@ Sunday                   249 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Svelte                   40 mins             ███████████████░░░░░░░░░░   58.71 % 
-JavaScript               28 mins             ██████████░░░░░░░░░░░░░░░   41.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CSC_480_Trophies         56 mins             █████████████████████░░░░   82.19 % 
-CSC_480_Jeopardy         12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -177,7 +174,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 18:41:16 UTC
+ Last Updated on 27/03/2024 18:41:36 UTC
 <!--END_SECTION:waka-->
 
 ---
