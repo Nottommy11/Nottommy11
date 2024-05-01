@@ -114,8 +114,6 @@
 
 > 📦 956.1 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -149,16 +147,20 @@ Sunday                   249 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ████████████░░░░░░░░░░░░░   49.38 % 
+JSON                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CSC_480_Jeopardy         3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +176,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2024 18:43:20 UTC
+ Last Updated on 01/05/2024 18:42:26 UTC
 <!--END_SECTION:waka-->
 
 ---
