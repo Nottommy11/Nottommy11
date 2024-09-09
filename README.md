@@ -106,11 +106,13 @@
 #### WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%203%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 956.1 kB Used in GitHub's Storage 
+> 📦 956.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -170,7 +172,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2024 18:40:44 UTC
+ Last Updated on 09/09/2024 18:43:03 UTC
 <!--END_SECTION:waka-->
 
 ---
