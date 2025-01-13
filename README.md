@@ -147,16 +147,16 @@ Sunday                   249 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +172,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2025 18:41:59 UTC
+ Last Updated on 13/01/2025 18:46:27 UTC
 <!--END_SECTION:waka-->
 
 ---
