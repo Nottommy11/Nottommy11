@@ -14,10 +14,15 @@
 
 #### Languages, Frameworks/Libraries, & Database Systems
 
+<!--
+
+    <img alt="GraphQL" width="48" src="./img/graphql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Selenium" width="48" src="./img/selenium.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+-->
+
 <div float="left">
     <img alt="C++" width="48" src="./img/cpp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C" width="48" src="./img/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C#" width="48" src="./img/csharp.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Java" width="48" src="./img/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python" width="48" src="./img/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Markdown" width="48" src="./img/markdown.png" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,32 +32,27 @@
     <img alt="Sass" width="48" src="./img/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="MySQL" width="48" src="./img/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Hasura" width="48" src="./img/hasuraio-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="GraphQL" width="48" src="./img/graphql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="SvelteKit" width="48" src="./img/svelte-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="React" width="48" src="./img/reactjs-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Selenium" width="48" src="./img/selenium.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<!--
 
 #### Tools & Software
 
 <div float="left">
-    <img alt="Visual Studio Code" width="48" src="./img/visual-studio-code.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Visual Studio" width="48" src="./img/visual-studio.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="PyCharm" width="48" src="./img/pycharm.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="GitHub" width="48" src="./img/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Docker" width="48" src="./img/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Postman" width="48" src="./img/getpostman-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Virtual Box" width="48" src="./img/virtualbox-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Arduino" width="48" src="./img/arduino.svg">&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="SolidWorks" width="48" src="./img/solidworks.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Microsoft Teams" width="48" src="./img/microsoft-teams.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Discord" width="48" src="./img/discord.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Slack" width="48" src="./img/slack.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Microsoft Windows" width="48" src="./img/microsoft-windows.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Linux" width="48" src="./img/linux-icon.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+-->
+
 ---
+
+<!--
 
 ### *I love to learn and I'm a problem solver at heart*
 
@@ -100,6 +100,8 @@
    - [Arduino Security Cam]
    - [Arduino Wind Turbine]
 - [X] Update Profile README with Current Skills
+
+-->
 
 ---
 
